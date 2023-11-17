@@ -1,0 +1,11 @@
+.pie__logos{
+    display: flex;
+    justify-content: space-evenly;
+}
+.pie__logos a{
+    color: #fff;
+    text-decoration: none;
+}
+.pie__logos i{
+    font-size: 3rem;
+}

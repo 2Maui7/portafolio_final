@@ -1,0 +1,7 @@
+.portafolio{
+    margin: 0 auto;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    height: 50rem;
+}

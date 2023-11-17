@@ -1,0 +1,6 @@
+.acerca{
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    width: 100vw;
+    align-items: center;
+}

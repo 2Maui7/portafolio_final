@@ -1,0 +1,10 @@
+.menu__lista{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+.menu__lista :hover{
+    background-color: aqua;
+    color: #191c32;
+    transition: ease-in .3s;
+}

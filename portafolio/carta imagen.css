@@ -1,0 +1,14 @@
+.carta__imagen{
+    width: 100%;
+    height: 150px;
+    background-size: cover;
+}
+.carta__imagen1{
+    background-image: url(/imagenes/pagina.png);
+}
+.carta__imagen2{
+    background-image: url(/imagenes/pagina2.png);
+}
+.carta__imagen3{
+    background-image: url(/imagenes/pagina3.png);
+}

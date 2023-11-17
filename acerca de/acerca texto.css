@@ -1,0 +1,11 @@
+.acerca__texto{
+    grid-column: 5/10;
+    padding: 2rem;
+}
+.acerca__texto h2{
+    font-size: 2rem;
+    color: #191c32;
+}
+.acerca__texto p{
+    margin-bottom: 1rem;
+}

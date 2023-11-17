@@ -1,0 +1,4 @@
+.acerca__imagen{
+    width: 100%;
+    grid-column: 1/5;
+}

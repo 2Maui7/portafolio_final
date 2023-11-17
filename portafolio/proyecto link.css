@@ -1,0 +1,11 @@
+.proyecto__link{
+    display: flex;
+    justify-content: space-evenly;
+}
+.proyecto__link a{
+    color: #fff;
+    text-decoration: none;
+}
+.proyecto__link i{
+    font-size: 1.5rem;
+}

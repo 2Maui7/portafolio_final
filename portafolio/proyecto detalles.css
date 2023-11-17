@@ -1,0 +1,13 @@
+.proyecto_boton{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    align-items: center;
+    text-align: center;
+    
+
+}
+.proyecto_boton a{
+    text-decoration: none;
+    color: #191c32;
+}
